@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Real Time E-commerce<br>👯 I’m looking to collaborate on various real time applications<br>🤝 I’m looking for help with Problem-solving and debugging complex challenges<br>🌱 I’m currently learning Java<br>💬 Ask me about React.js, front-end development, cloud solutions with AWS, and creating scalable applications<br>⚡ Fun fact I turn challenges into opportunities and thrive on learning something new every day!
+🔭 I’m currently working on Real world projects and Open for Freelancing Projects<br>👯 I’m looking to collaborate on various real time applications<br>🤝 I’m looking for help with Problem-solving and debugging complex challenges<br>🌱 I’m currently learning Java<br>💬 Ask me about React.js, front-end development, cloud solutions with AWS, and creating scalable applications<br>⚡ Fun fact I turn challenges into opportunities and thrive on learning something new every day!
 
 
 ## 🌐 Socials:
